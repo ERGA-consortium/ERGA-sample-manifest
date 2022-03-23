@@ -461,13 +461,13 @@
             "options":["Y","N"],
             "ENA_submission":false
         },
-        "NAGOYA_PERMITS_DEF:":{
+        "NAGOYA_PERMITS_DEF":{
             "description":"Free text explaining permits, permit issuing entity and permit number.",
             "type": "text_area_field",
             "mandatory": "optional",
             "ENA_submission":false
         },
-        "OTHER_INFORMATION::":{
+        "OTHER_INFORMATION":{
             "description":"Free text field for further relevant information not captured by the other fields. This is a place also for partners to flag species that should be prioritized in the sequencing queue",
             "type": "text_area_field",
             "mandatory": "optional",
