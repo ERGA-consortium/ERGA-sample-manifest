@@ -1,8 +1,8 @@
 # ERGA Submission
 
-- ERGAManifestV2.4.2.pdf contains the latest standard operating procedure for submission of ERGA metadata. Please consult this document in the first instance.  
+- ERGAManifestV2.4.3.pdf contains the latest standard operating procedure for submission of ERGA metadata. Please consult this document in the first instance.  
 
-- ERGA_SAMPLE_MANIFEST_V2.4.2.xlsx is a blank ERGA sample submission manifest for COPO
+- ERGA_SAMPLE_MANIFEST_V2.4.3.xlsx is a blank ERGA sample submission manifest for COPO
 
 	- Note, you can also use the COPO manifest wizard here https://copo-project.org/manifests/index
 
